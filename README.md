@@ -4,7 +4,7 @@ After video recording make video compress
 <br/>
 <img src="https://media.giphy.com/media/XfJHUo7xtRbkTic3vg/giphy.gif" />
 
-Using This Library
+This library is used:
 <br/>
 <br/>
 https://github.com/fishwjy/VideoCompressor
